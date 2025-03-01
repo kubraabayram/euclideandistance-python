@@ -1,1 +1,1 @@
-# Python-test
+# euclidean distance in python
