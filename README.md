@@ -1,1 +1,1 @@
-# euclidean distance in python
+# This Python script calculates the Euclidean Distance between two points in a 2D or 3D space. Euclidean distance is a common measure in mathematics and data science for computing the "straight-line" distance between two points.
